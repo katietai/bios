@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
+
+
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    font-size: 2 rem;
+    color: red;
+    text-transform: uppercase;
+    font-family:'Kirang Haerang', cursive; 
+}
+.top-nav{
+    background-color: seagreen;
+    overflow: hidden;
+}
+.top-nav a{
+    float: left;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 30px;
+    font-family:'Kirang Haerang', cursive; ;
+
+}
+.top-nav a:hover{
+    background-color: tomato;
+    color: black;
+
+}
+.top-nav a:active{
+background-color:violet;
+color:black;
+}
+
+h1{
+    font-family:'Kirang Haerang', cursive;  
+    font-size: 30px;
+}
+fieldset{
+    width: 500px;
+    height: 500px;
+    border: 15px solid white;
+    padding: 20px;
+    
+}
+input{
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: 25px;
+    font-family:'Kirang Haerang', cursive; 
+}
